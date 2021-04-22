@@ -1,0 +1,73 @@
+﻿  animation_jacobian.cpp
+C:\Users\Doheon\Desktop\Doheon\documents\Visualstudio\include\sphere1.h(40,47): warning C4244: '인수': 'double'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Doheon\Desktop\Doheon\documents\Visualstudio\include\sphere1.h(41,47): warning C4244: '인수': 'double'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Doheon\Desktop\Doheon\documents\Visualstudio\include\sphere1.h(42,42): warning C4244: '인수': 'double'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Doheon\Desktop\Doheon\documents\Visualstudio\include\spline.h(46,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\Doheon\Desktop\Doheon\documents\Visualstudio\include\spline.h(73,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\Doheon\Desktop\Doheon\documents\Visualstudio\include\spline.h(188,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\Doheon\Desktop\Doheon\documents\Visualstudio\include\spline.h(202,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\Doheon\Desktop\Doheon\documents\Visualstudio\include\spline.h(311,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\Doheon\Desktop\Doheon\documents\Visualstudio\include\spline.h(321,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\Doheon\Desktop\Doheon\documents\Visualstudio\opengl_animation\animation_jacobian.cpp(306,30): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\Doheon\Desktop\Doheon\documents\Visualstudio\opengl_animation\animation_jacobian.cpp(307,27): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\Doheon\Desktop\Doheon\documents\Visualstudio\opengl_animation\animation_jacobian.cpp(321,29): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\Doheon\Desktop\Doheon\documents\Visualstudio\opengl_animation\animation_jacobian.cpp(322,37): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\Doheon\Desktop\Doheon\documents\Visualstudio\opengl_animation\animation_jacobian.cpp(333,31): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\Doheon\Desktop\Doheon\documents\Visualstudio\opengl_animation\animation_jacobian.cpp(334,28): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\Doheon\Desktop\Doheon\documents\Visualstudio\opengl_animation\animation_jacobian.cpp(336,37): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\Doheon\Desktop\Doheon\documents\Visualstudio\opengl_animation\animation_jacobian.cpp(346,29): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\Doheon\Desktop\Doheon\documents\Visualstudio\opengl_animation\animation_jacobian.cpp(347,37): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\Doheon\Desktop\Doheon\documents\Visualstudio\opengl_animation\animation_jacobian.cpp(357,35): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\Doheon\Desktop\Doheon\documents\Visualstudio\opengl_animation\animation_jacobian.cpp(358,31): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\Doheon\Desktop\Doheon\documents\Visualstudio\opengl_animation\animation_jacobian.cpp(359,38): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\Doheon\Desktop\Doheon\documents\Visualstudio\opengl_animation\animation_jacobian.cpp(361,30): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\Doheon\Desktop\Doheon\documents\Visualstudio\opengl_animation\animation_jacobian.cpp(386,39): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\Doheon\Desktop\Doheon\documents\Visualstudio\opengl_animation\animation_jacobian.cpp(387,38): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\Doheon\Desktop\Doheon\documents\Visualstudio\opengl_animation\animation_jacobian.cpp(388,39): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\Doheon\Desktop\Doheon\documents\Visualstudio\opengl_animation\animation_jacobian.cpp(390,30): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\Doheon\Desktop\Doheon\documents\Visualstudio\opengl_animation\animation_jacobian.cpp(423,21): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Doheon\Desktop\Doheon\documents\Visualstudio\opengl_animation\animation_jacobian.cpp(193,12): warning C4101: 'diffusecolor' :참조되지 않은 지역 변수입니다.
+C:\Users\Doheon\Desktop\Doheon\documents\Visualstudio\opengl_animation\animation_jacobian.cpp(194,12): warning C4101: 'specularcolor' :참조되지 않은 지역 변수입니다.
+C:\Users\Doheon\Desktop\Doheon\documents\Visualstudio\opengl_animation\animation_jacobian.cpp(543,21): warning C4244: '=': 'double'에서 'T'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              T=float
+          ]
+C:\Users\Doheon\Desktop\Doheon\documents\Visualstudio\opengl_animation\animation_jacobian.cpp(544,20): warning C4244: '=': 'double'에서 'T'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              T=float
+          ]
+C:\Users\Doheon\Desktop\Doheon\documents\Visualstudio\opengl_animation\animation_jacobian.cpp(575,13): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Doheon\Desktop\Doheon\documents\Visualstudio\opengl_animation\animation_jacobian.cpp(576,13): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Doheon\Desktop\Doheon\documents\Visualstudio\opengl_animation\animation_jacobian.cpp(580,18): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Doheon\Desktop\Doheon\documents\Visualstudio\opengl_animation\animation_jacobian.cpp(581,18): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Doheon\Desktop\Doheon\documents\Visualstudio\opengl_animation\animation_jacobian.cpp(582,12): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Doheon\Desktop\Doheon\documents\Visualstudio\opengl_animation\animation_jacobian.cpp(583,12): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Doheon\Desktop\Doheon\documents\Visualstudio\opengl_animation\animation_jacobian.cpp(599,13): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Doheon\Desktop\Doheon\documents\Visualstudio\opengl_animation\animation_jacobian.cpp(600,13): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Doheon\Desktop\Doheon\documents\Visualstudio\opengl_animation\animation_jacobian.cpp(605,18): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Doheon\Desktop\Doheon\documents\Visualstudio\opengl_animation\animation_jacobian.cpp(606,18): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Doheon\Desktop\Doheon\documents\Visualstudio\opengl_animation\animation_jacobian.cpp(607,12): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Doheon\Desktop\Doheon\documents\Visualstudio\opengl_animation\animation_jacobian.cpp(608,12): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Doheon\Desktop\Doheon\documents\Visualstudio\opengl_animation\animation_jacobian.cpp(673,17): warning C4244: '-=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Doheon\Desktop\Doheon\documents\Visualstudio\opengl_animation\animation_jacobian.cpp(784,14): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Doheon\Desktop\Doheon\documents\Visualstudio\opengl_animation\animation_jacobian.cpp(950,82): warning C4244: '+=': 'double'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=float
+          ]
+LINK : warning LNK4098: 'MSVCRT' defaultlib가 다른 라이브러리와 충돌합니다. /NODEFAULTLIB:library를 사용하십시오.
+  opengl_animation.vcxproj -> C:\Users\Doheon\Desktop\Doheon\documents\Visualstudio\opengl_animation\Debug\opengl_animation.exe
