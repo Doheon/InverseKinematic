@@ -14,7 +14,7 @@ gradient descent 방법과 jacobian을 계산하는 방법 두가지로 구현�
 
 gradient descent 방법으로 구현한 inverse kinematic
 
-
+&nbsp;
 
 
 
@@ -26,7 +26,7 @@ gradient descent 방법으로 구현한 inverse kinematic
 
 jacobian을 계산하여 구현한 inverse kinematic
 
-
+&nbsp;
 
 
 
